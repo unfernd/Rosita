@@ -1,5 +1,5 @@
 services:
-  rosita2:
+  rosita3:
     build: .
     shm_size: 2.6gb
     ports:
